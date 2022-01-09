@@ -1,1 +1,1 @@
-# tgggtgrtrgtrgtrg
+# Ai algo to solve SUDOKU 
